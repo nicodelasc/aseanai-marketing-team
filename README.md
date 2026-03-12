@@ -25,4 +25,4 @@ A static Akinator-style guessing game for showcasing ASEAN AI case studies on Gi
 
 ## Deployment
 
-Set `Settings -> Pages -> Build and deployment -> Source` to `GitHub Actions`, then push to `main` to trigger `.github/workflows/deploy.yml`.
+Set `Settings -> Pages -> Build and deployment -> Source` to `GitHub Actions`, then push to `master` or `main` to trigger `.github/workflows/deploy.yml`.
