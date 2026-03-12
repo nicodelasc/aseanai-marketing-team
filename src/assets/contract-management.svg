@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#FFF6EA"/>
+  <rect x="96" y="80" width="1008" height="740" rx="40" fill="#102542"/>
+  <rect x="180" y="156" width="520" height="76" rx="18" fill="#FF6B2C"/>
+  <rect x="180" y="274" width="760" height="30" rx="15" fill="#D6E4F0"/>
+  <rect x="180" y="332" width="618" height="30" rx="15" fill="#D6E4F0"/>
+  <rect x="180" y="390" width="704" height="30" rx="15" fill="#D6E4F0"/>
+  <rect x="180" y="476" width="414" height="164" rx="24" fill="#173A63"/>
+  <path d="M654 488H924C943.882 488 960 504.118 960 524V604C960 623.882 943.882 640 924 640H654V488Z" fill="#0F7B6C"/>
+  <path d="M744 512L780 548L888 440" stroke="#FFF6EA" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="182" y="205" fill="#102542" font-family="Arial, sans-serif" font-size="34" font-weight="700">CONTRACT INTELLIGENCE</text>
+  <text x="182" y="560" fill="#FFF6EA" font-family="Arial, sans-serif" font-size="42" font-weight="700">AI redlining</text>
+  <text x="182" y="608" fill="#FFF6EA" font-family="Arial, sans-serif" font-size="26">Semantic search and policy guidance</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#EFF3FF"/>
+  <rect x="100" y="90" width="1000" height="720" rx="48" fill="#102542"/>
+  <rect x="170" y="152" width="860" height="596" rx="40" fill="#FFF9F0"/>
+  <circle cx="332" cy="394" r="112" fill="#173A63"/>
+  <path d="M332 312V476" stroke="#72D6C9" stroke-width="24" stroke-linecap="round"/>
+  <path d="M250 394H414" stroke="#72D6C9" stroke-width="24" stroke-linecap="round"/>
+  <path d="M598 282H930" stroke="#FF6B2C" stroke-width="26" stroke-linecap="round"/>
+  <path d="M598 360H870" stroke="#102542" stroke-width="26" stroke-linecap="round"/>
+  <path d="M598 438H930" stroke="#0F7B6C" stroke-width="26" stroke-linecap="round"/>
+  <path d="M598 516H830" stroke="#FF6B2C" stroke-width="26" stroke-linecap="round"/>
+  <rect x="598" y="592" width="212" height="66" rx="22" fill="#FFD166"/>
+  <text x="612" y="635" fill="#102542" font-family="Arial, sans-serif" font-size="28" font-weight="700">TH ID AR</text>
+  <text x="218" y="620" fill="#102542" font-family="Arial, sans-serif" font-size="32" font-weight="700">LIVE</text>
+  <text x="600" y="228" fill="#102542" font-family="Arial, sans-serif" font-size="30" font-weight="700">Real-time captioning relay</text>
+</svg>

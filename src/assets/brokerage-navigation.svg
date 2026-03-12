@@ -1,0 +1,16 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#F7F0E8"/>
+  <rect x="110" y="90" width="980" height="720" rx="48" fill="#102542"/>
+  <rect x="172" y="146" width="858" height="586" rx="38" fill="#FFF9F0"/>
+  <rect x="214" y="198" width="272" height="66" rx="18" fill="#FF6B2C"/>
+  <rect x="214" y="308" width="328" height="248" rx="26" fill="#173A63"/>
+  <rect x="586" y="308" width="360" height="100" rx="24" fill="#E8EFF8"/>
+  <rect x="586" y="434" width="360" height="100" rx="24" fill="#E8EFF8"/>
+  <circle cx="388" cy="432" r="78" fill="#FFB38A"/>
+  <path d="M354 432H422" stroke="#102542" stroke-width="18" stroke-linecap="round"/>
+  <path d="M388 398V466" stroke="#102542" stroke-width="18" stroke-linecap="round"/>
+  <text x="232" y="240" fill="#102542" font-family="Arial, sans-serif" font-size="30" font-weight="700">BROKERAGE GUIDE</text>
+  <text x="610" y="366" fill="#102542" font-family="Arial, sans-serif" font-size="28" font-weight="700">Discover features</text>
+  <text x="610" y="492" fill="#102542" font-family="Arial, sans-serif" font-size="28" font-weight="700">Get onboarding help</text>
+  <text x="610" y="628" fill="#102542" font-family="Arial, sans-serif" font-size="28" font-weight="700">Knowledge graph answers</text>
+</svg>

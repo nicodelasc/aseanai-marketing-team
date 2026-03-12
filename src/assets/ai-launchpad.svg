@@ -1,0 +1,15 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#FFF6EA"/>
+  <rect x="96" y="92" width="1008" height="716" rx="46" fill="#102542"/>
+  <path d="M190 204C190 186.327 204.327 172 222 172H538C555.673 172 570 186.327 570 204V618C570 635.673 555.673 650 538 650H222C204.327 650 190 635.673 190 618V204Z" fill="#FFF9F0"/>
+  <rect x="640" y="172" width="360" height="478" rx="34" fill="#173A63"/>
+  <rect x="240" y="250" width="280" height="28" rx="14" fill="#D6E4F0"/>
+  <rect x="240" y="322" width="230" height="28" rx="14" fill="#D6E4F0"/>
+  <rect x="240" y="394" width="280" height="28" rx="14" fill="#D6E4F0"/>
+  <rect x="240" y="466" width="206" height="28" rx="14" fill="#D6E4F0"/>
+  <rect x="240" y="550" width="144" height="46" rx="18" fill="#FF6B2C"/>
+  <path d="M700 522L770 452L830 512L944 376" stroke="#72D6C9" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="676" y="262" fill="#FFF6EA" font-family="Arial, sans-serif" font-size="34" font-weight="700">AI LAUNCHPAD</text>
+  <text x="676" y="320" fill="#FFF6EA" font-family="Arial, sans-serif" font-size="24">Scope. Align. Generate.</text>
+  <text x="236" y="612" fill="#102542" font-family="Arial, sans-serif" font-size="24" font-weight="700">Generate repo</text>
+</svg>
